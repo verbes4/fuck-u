@@ -13,7 +13,8 @@ int main(int argc, char **argv)
     //Move the cursor to row 16 and column 20 and then prints "Hello World!"
     //To move the cursor you have to print "\x1b[r;cH", where r and c are respectively
     //the row and column where you want your cursor to move
-    printf("\x1b[16;20HFuck you.");
+    printf("Heres a handy guide! Not prerssing anything will say 'fuck you', pressing A will say 'Shut up' and pressing B will say 'Bitch'!");
+	printf("\x1b[16;20HFuck you.");
     
 	while(appletMainLoop())
     {
@@ -27,8 +28,13 @@ int main(int argc, char **argv)
 			printf(" Shut up.");
 		}
 
+		if(kDown & KEY_B)
+		{
+			printf(" Bitch.");
+		}
+		
         if (kDown & KEY_PLUS) break; // break in order to return to hbmenu
-
+		
         gfxFlushBuffers();
         gfxSwapBuffers();
         gfxWaitForVsync();
