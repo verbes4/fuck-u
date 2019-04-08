@@ -37,8 +37,8 @@ DATA		:=	data
 INCLUDES	:=	include
 EXEFS_SRC	:=	exefs_src
 APP_TITLE	:=	Fuck You.
-APP_AUTHOR	:=	xXxswagnemitexXx
-APP_VERSION := 1.5
+APP_AUTHOR	:=	xXxswagnemitexXx - modded by ELY M.
+APP_VERSION := 1.6
 #ROMFS	:=	romfs
 
 #---------------------------------------------------------------------------------
