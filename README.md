@@ -7,9 +7,10 @@ Press B to say "Bitch"
 Press X to say "Shut up"  
 Press Y to say "Cunt."   
 Press R, L, ZR, ZL for more new swear words.    
-Press - to clear the screen.  
+Press - to clear the screen.   
 
-
+![Icon](icon.jpg)   
+  
 Credit to Joshua Hellwege / xXxSwagnemitexXx at GBATemp / lolicop123 at github   
 https://gbatemp.net/threads/my-first-homebrew-an-app-that-prints-f-k-you.508879/   
 
