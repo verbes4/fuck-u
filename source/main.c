@@ -67,6 +67,27 @@ int main(int argc, char **argv)
 		printf(" Cunt");
 		}
 		
+		if(kDown & KEY_LSTICK) 
+		{
+		printf("\n\n\n"); 	
+		printf("\t   _/~\\_\n");
+		printf("\t  /     \\\n");	
+		printf("\t (       )\n");
+		printf("\t | - -  -|\n");
+		printf("\t } -  -  {\n");
+		printf("\t }- -  - {\n");	
+		printf("\t } - -  -{\n");
+		printf("\t }-  - - {\n");
+		printf("\t }- -  - {\n");
+		printf("\t } - - - {\n");
+		printf("\t | - - - |\n");
+		printf("\t |_______|\n");
+		printf("\t(_________)\n");
+		printf("\n\n");
+
+		}
+		
+
 		if(kDown & KEY_MINUS)
 		{
 		consoleClear();
