@@ -6,7 +6,7 @@ Press A to say "Fuck you."
 Press B to say "Bitch"  
 Press X to say "Shut up"  
 Press Y to say "Cunt."   
-Press Left Joystick for a ascii of a condom. 
+Press Left Joystick for a ascii of a condom.  
 Press R, L, ZR, ZL for more new swear words.    
 Press - to clear the screen.   
 
