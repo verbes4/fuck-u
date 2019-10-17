@@ -11,6 +11,11 @@ Press R, L, ZR, ZL for more new swear words.
 Press - to clear the screen.   
 
 ![Icon](icon.jpg)   
+
+
+How to install on your switch:  
+drop fuck-u.nro in your switch folder on your sd card. 
+
   
 Credit to Joshua Hellwege / xXxSwagnemitexXx at GBATemp / lolicop123 at github   
 https://gbatemp.net/threads/my-first-homebrew-an-app-that-prints-f-k-you.508879/   
