@@ -23,7 +23,15 @@ int main(int argc, char **argv)
 	setInitialize();
 
 
-    printf("Heres a handy guide! Pressing A will say 'Fuck you.', pressing B will say 'Bitch', pressing X will say 'Shut up', pressing Y will say 'Cunt', and\npress other buttons will show you more words, pressing - will clear the screen (including this guide) \n");
+    printf("Heres a handy guide!\n");
+	printf("A = Fuck you.\n");
+	printf("B = Bitch\n"); 
+	printf("X = Shut up\n");  
+	printf("Y = Cunt\n");
+	printf("Press on left joystick will bring a condom ascii art\n");
+	printf("Push up on left joystick will bring a middle finger ascii art\n");
+	
+	printf("pressing - will clear the screen (including this guide) \n");
 	
 	while(appletMainLoop())
     {
@@ -86,6 +94,35 @@ int main(int argc, char **argv)
 		printf("\n\n");
 
 		}
+
+		if(kDown & KEY_LSTICK_UP) 
+		{
+		printf("\n\n");		
+		printf("\t         /\"\\ \n");
+		printf("\t        |\\./| \n");
+		printf("\t        |   | \n");
+		printf("\t        |   | \n");
+		printf("\t        |>~<| \n");
+		printf("\t        |   | \n");
+		printf("\t     /'\\|   |/'\\..\n");
+		printf("\t /~\\|   |   |   | \\ \n");
+		printf("\t|   |   |   |   |  \\ \n");
+        printf("\t|   |   |   |   |   \\ \n");
+        printf("\t| ~   ~   ~   ~ |`   ) \n");
+        printf("\t|                   / \n");
+        printf("\t \\                 / \n");
+        printf("\t  \\               / \n");
+        printf("\t   \\            / \n");
+        printf("\t    |          | \n");
+        printf("\t    |          | \n");
+        printf("\t    |          | \n");
+		printf("\n\n");
+		
+		
+		
+		}				
+				
+				
 		
 
 		if(kDown & KEY_MINUS)
