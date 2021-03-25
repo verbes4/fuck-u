@@ -17,7 +17,10 @@ Press - to clear the screen.
 How to install on your switch:  
 drop fuck-u.nro in your switch folder on your sd card. 
 
-  
-Credit to Joshua Hellwege / xXxSwagnemitexXx at GBATemp / lolicop123 at github   
-https://gbatemp.net/threads/my-first-homebrew-an-app-that-prints-f-k-you.508879/   
+Press A to say "Fuck you."
+Press B to say "Bitch"
+Press X to say "Shut up"
+Press Y to clear the screen
 
+For a much better version by ELY3M, look here: https://github.com/ELY3M/fuck-u
+Also thanks to ELY3M for the pull request haha
